@@ -6,3 +6,4 @@
 5. functions.py
 6. listops.py
 7. filehandling.py
+8. Dictionaries.py
